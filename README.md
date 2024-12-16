@@ -86,7 +86,7 @@ IT Tool is architected as a modular Windows Forms application, promoting scalabi
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YourGitHubUsername/IT-Tool.git
+   git clone https://github.com/enessubasi63/IT-Tool.git
    ```
 
 2. **Open the Solution**
