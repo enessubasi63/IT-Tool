@@ -1,0 +1,132 @@
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.exe.config
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.exe
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.pdb
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Win32.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.CodeDom.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Management.Automation.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.AccessControl.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.Principal.Windows.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Win32.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.CodeDom.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.AccessControl.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.Principal.Windows.xml
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.csproj.AssemblyReference.cache
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.AzureCheckForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.CacheClearingForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.Form1.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.OtherToolsForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlusITTools.Properties.Resources.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.SystemInformationForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.TroubleshootForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.csproj.GenerateResource.cache
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.csproj.CoreCompileInputs.cache
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT.D987DF30.Up2Date
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.exe
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.pdb
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Diagnostics.EventLog.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Diagnostics.EventLog.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.HostnameControllerForm.resources
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Buffers.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Memory.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Numerics.Vectors.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Text.Encodings.Web.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Text.Json.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.ValueTuple.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Buffers.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Memory.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Numerics.Vectors.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Text.Encodings.Web.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Text.Json.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.ValueTuple.xml
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.ADQueryForm.resources
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\DnsClient.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\HtmlAgilityPack.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\DnsClient.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\HtmlAgilityPack.pdb
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\HtmlAgilityPack.xml
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.UrlAnalyzer.resources
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Newtonsoft.Json.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Newtonsoft.Json.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.exe.manifest
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.application
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.exe.manifest
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.application
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.UserProfilesForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.HostnameVerificationForm.resources
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Guna.UI2.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.exe.config
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.exe.manifest
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.application
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.exe
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.pdb
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\DnsClient.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\Guna.UI2.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\HtmlAgilityPack.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Win32.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\Newtonsoft.Json.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Buffers.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.CodeDom.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Diagnostics.EventLog.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Management.Automation.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Memory.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Numerics.Vectors.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.AccessControl.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.Principal.Windows.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.ServiceProcess.ServiceController.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Text.Encodings.Web.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Text.Json.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.ValueTuple.dll
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\DnsClient.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\HtmlAgilityPack.pdb
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\HtmlAgilityPack.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Win32.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\Newtonsoft.Json.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Buffers.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.CodeDom.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Diagnostics.EventLog.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Memory.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Numerics.Vectors.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.AccessControl.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.Principal.Windows.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Text.Encodings.Web.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Text.Json.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\bin\Debug\System.ValueTuple.xml
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.csproj.AssemblyReference.cache
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.ADQueryForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.AzureCheckForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.CacheClearingForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.Form1.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.HostnameControllerForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.HostnameVerificationForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.OtherToolsForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlusITTools.Properties.Resources.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.SystemInformationForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.TroubleshootForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.UrlAnalyzer.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.UserProfilesForm.resources
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.csproj.GenerateResource.cache
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.csproj.CoreCompileInputs.cache
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.exe.manifest
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.application
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT.D987DF30.Up2Date
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.exe
+D:\enes yedek\d\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.pdb

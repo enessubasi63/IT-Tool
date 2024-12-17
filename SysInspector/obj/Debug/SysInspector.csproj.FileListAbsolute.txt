@@ -1,0 +1,27 @@
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.csproj.AssemblyReference.cache
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.Form1.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.csproj.GenerateResource.cache
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.csproj.CoreCompileInputs.cache
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.CodeDom.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.CodeDom.xml
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspe.44A1BA78.Up2Date
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Win32.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\Microsoft.Win32.xml
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.CacheClearingForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.TroubleshootForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.SystemInformationForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.AzureCheckForm.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\SysInspector.OtherToolsForm.resources
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.AccessControl.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.Principal.Windows.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.AccessControl.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Security.Principal.Windows.xml
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\System.Management.Automation.dll
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.exe.config
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.exe
+D:\SysInspector\SysInspector\SysInspector\bin\Debug\MPlus IT Tools.pdb
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlusITTools.Properties.Resources.resources
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.exe
+D:\SysInspector\SysInspector\SysInspector\obj\Debug\MPlus IT Tools.pdb
